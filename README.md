@@ -1,7 +1,7 @@
 # DataMiningProject
 
 
---Load the given two csv files into Jupyter Notebook files and they should same directory as jupyter notebook
+--Load the given two csv files into Jupyter Notebook files and they should same directory as jupyter notebook (.ipynb file)
 
 --Make sure to install all these python libraries if your python version does not have any of these
 
